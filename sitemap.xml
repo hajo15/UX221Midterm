@@ -1,0 +1,43 @@
+<?xml?>
+<urlset>
+    <url>
+        <loc>
+            http://localhost:8000/gift-exchange/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/having-a-party/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/going-to-church/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/why-christmas-is-my-favorite-day/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/ways-that-people-celebrate/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/christmas/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/author/hajo/
+        </loc>
+    </url>
+</urlset>
